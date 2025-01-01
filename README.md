@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 - I'm curently studying GIS at UQAM - Université du Québec à Montréal
-- I'm interested mainly in Web GIS Development
+- I'm mainly interested in Web GIS Development
 
 - Comming back soon to tell you more...
 
