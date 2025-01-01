@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I'm curently studying in GIS at UQAm
+- I'm interested mainly in GIS Web Development
+
+- Comming back to tell you more...
+
 <!--
 **amieclem/amieclem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
