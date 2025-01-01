@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - I'm curently studying GIS at UQAM - Université du Québec à Montréal
 - I'm interested mainly in GIS Web Development
